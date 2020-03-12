@@ -2,11 +2,11 @@
 
 return [
     'subject' => [
-        'prefix' => '[Contact Form] - milkandbourbon.com'
+        'prefix' => '[milkandbourbon.com Web Page Contact Form]'
     ],
     'emails' => [
-        'to'   => 'am@milkandbourbom.com',
-        'from' => '[Contact Form milkandbourbon.com]'
+        'to'   => 'am@milkandbourbon.com',
+        'from' => '[Web Page Contact Form] from milkandbourbon.com'
     ],
     'messages' => [
         'error'   => 'There was an error sending your message, please try again later.',
